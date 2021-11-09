@@ -17,4 +17,4 @@ All the plots and figures are compiled in `./Report.pdf`
 - The sentences and the words associated with them which you require the embedding for can be changed as well. At last, it plots a heatmap to visualize the similarities between word embeddings.
 
 ## Remarks
-The training process is quite heavy. It took around 35 hrs for 50 epochs on a 2080Ti.
+The training process is quite heavy computationally. It took around 35 hrs for 50 epochs on a 2080Ti.
